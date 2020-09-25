@@ -1,0 +1,16 @@
+@import '~bootstrap/dist/css/bootstrap.css';
+
+body {
+  background-color: #F8F8F8;
+}
+
+input:focus,
+input:active,
+button:focus,
+button:active {
+  box-shadow: none !important;
+}
+
+label {
+  font-weight: bold;
+}
